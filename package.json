@@ -1,0 +1,14 @@
+{
+  "name": "skip-i-delete-j",
+  "version": "1.0.0",
+  "description": "skip i delete j problem from udacity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Evan Greer",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
